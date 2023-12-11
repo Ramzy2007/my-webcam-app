@@ -13,7 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
-![Alt text](/default.png "Optional title")
+![Alt text](/public/default.png "Optional title")
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
